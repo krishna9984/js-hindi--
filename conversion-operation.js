@@ -25,3 +25,11 @@ let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log( typeof stringNumber);
 // gives the value string 33 and string 
+
+
+
+// ********OPERATION**********
+
+let value = 3
+let negValue 
+console.log();
