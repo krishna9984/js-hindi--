@@ -20,10 +20,10 @@ let booleanIsLoggedIn = Boolean(isloggedIn)
 // " " => false
 //"hitesh" => true 
 
-let someNumber = 33 
-let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log( typeof stringNumber);
+//let someNumber = 33 
+//let stringNumber = String(someNumber)
+//console.log(stringNumber);
+//console.log( typeof stringNumber);
 // gives the value string 33 and string 
 
 
@@ -31,5 +31,27 @@ console.log( typeof stringNumber);
 // ********OPERATION**********
 
 let value = 3
-let negValue 
-console.log();
+let negValue = -value
+//console.log(negValue);
+
+
+let str1='krishna  '
+let str2='yadav'
+
+let str3=str1+str2
+// console.log(str3);
+
+// console.log("1"+ 2);
+// console.log(1+ "2");
+// console.log("1"+2+2);
+// console.log(1+2+"2");
+// sab javascript ke guidelines ko follow karte hye 
+
+// console.log(+true);// this is not the good way to write the code
+
+// console.log(true);
+
+// ++prefix and postfix++
+
+
+
