@@ -20,4 +20,5 @@
  //intila days me js scope par kam nhi karti par abb karti hye isiliye ham let aur var ko easily use karte hye aur jyada tar const aur let use karte for modern days 
  // we mostly only use let and const together 
  //ham javasacript me bina varible ko define kare value dee sakte hye pawr vo accha nhi 
+console.log("krishna")
 
