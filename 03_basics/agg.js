@@ -33,7 +33,27 @@ let gameCounter = 100;
 
 console.log(gameCounter);
 
+//----- COMPARISION----//
 
+console.log(2<3)
+console.log(2>1)
+
+console.log("2">1)
+console.log("2"<4)// yeah automatic string ko number me direct convert kar leta hye 
+
+console.log(null>0);
+console.log(null == 0)
+console.log(null>=0)//
+// the reason is that an equality check == and comparision > <> =  <= work differently
+ //comparison convert null to a number trating it as 0.
+ // thats why null>= 0 is true but 1 null>0 is false.
+ 
+ // ==== it checks datatypes and values 
+
+ console.log(undefined == 0);
+ console.log(undefined >0);
+ console.log(undefined <0);
+ 
 
 
 
