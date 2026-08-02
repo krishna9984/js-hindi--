@@ -50,6 +50,8 @@
  const myfunctions = function(){
 console.log("hello world")
 
- }
+ } 
 
  console.log(typeof bigNumber);
+
+ // its summary for the data types
